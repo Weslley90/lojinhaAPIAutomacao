@@ -1,2 +1,6 @@
 # lojinhaAPIAutomacao
-Esse repositório contém o código das aulas do módulo 9, do curso de mentória de testes de software.
+Mentoria em Teste de Software ministrado pelo Júlio de Lima. Nesse repositório contém o código de automação da API lojinha.
+Informações: 
+- API Rest
+- JUnit
+- RestAssurenced
